@@ -562,7 +562,7 @@ def main():
     pikachu = Pikachu()
     pikachu.start()    
     my_goto(160, -330)
-    write('by TNT', font=("Bradley Hand ITC", 35, "bold"))    
+    write('by VAD', font=("Bradley Hand ITC", 35, "bold"))    
     hideturtle();
     mainloop()
 
